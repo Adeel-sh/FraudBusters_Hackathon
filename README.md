@@ -18,9 +18,3 @@ We built a layered AI/ML fraud detection framework using:
 - Recall: 31.98%
 - F1-score: 30.22%
 
-## Repository Structure
-- `notebooks/` - model development notebooks
-- `models/` - saved model artifacts
-- `slides/` - final presentation
-- `data/` - sample data only
-
